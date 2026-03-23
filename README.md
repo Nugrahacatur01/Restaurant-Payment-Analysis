@@ -1,5 +1,5 @@
-# Restaurant-Payment-Analysis
-## **Dataset Decription**
+# **The Geography of Payments: Mapping Consumer Financial Preferences Across Urban Centers.**
+## **Dataset Description**
 1) Order ID: A unique identifier for each sales order. This can be used to track individual transactions.
 
 2) Order Date: The date when the order was placed. This column is essential for time-series analysis, such as identifying sales trends over time or seasonality.
